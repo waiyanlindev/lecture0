@@ -1,0 +1,10 @@
+git clone "url"
+git add "fileName"
+git commit -m "Message"
+git commit -am "Message"    // add and commit
+git log
+git reset --hard "hash Code"
+git reset --hard origin/master
+git push
+git pull
+git reflog
